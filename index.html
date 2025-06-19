@@ -17,3 +17,21 @@
     <section class="scoreboard" id="scoreboard">
       <span id="playerScore">0</span> - <span id="aiScore">0</span>
     </section>
+     <section class="controls">
+      <button id="startBtn" class="btn-start">Iniciar</button>
+      <button id="pauseBtn" class="btn">Pausar</button>
+
+      <label for="difficultySelect" class="label">Dificultad:</label>
+      <select id="difficultySelect" class="select">
+        <option value="easy">Fácil</option>
+        <option value="medium" selected>Media</option>
+        <option value="hard">Difícil</option>
+      </select>
+    </section>
+<canvas id="gameCanvas" width="720" height="450"></canvas>
+ <section class="message" id="message" style="display:none;"></section>
+  <button id="restartBtn" class="btn-start" style="display:none;">Volver a intentarlo</button>
+  </main>
+<script src="script.js"></script>
+</body>
+</html>
