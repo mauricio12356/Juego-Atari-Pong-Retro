@@ -25,5 +25,4 @@ El juego cuenta con:
 - `script.js`: toda la lógica del juego y la IA.
 
 
-Usuario: 
-Excelente, gracias.
+
