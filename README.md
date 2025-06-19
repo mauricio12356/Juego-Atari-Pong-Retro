@@ -23,18 +23,7 @@ El juego cuenta con:
 - `index.html`: estructura HTML del juego.
 - `style.css`: estilos modernos y responsivos.
 - `script.js`: toda la lógica del juego y la IA.
- ## Diálogo con la IA generativa (ChatGPT)
-Usuario: 
-Hola, necesito hacer un juego Pong clásico en HTML, CSS y JavaScript desde cero para un proyecto. ¿Me puedes ayudar?
 
-ChatGPT:  
-Claro, te puedo ayudar a crear un juego Pong moderno con dificultad ajustable, puntajes y vidas. ¿Quieres que incluya el código completo con explicación?
-
-Usuario: 
-Sí, por favor. Además, quiero que la IA se deje ganar en dificultad fácil.
-
-ChatGPT:  
-Perfecto, aquí tienes el código con esa funcionalidad incluida. La IA se mueve más lento y tiene un margen de error para que puedas ganar en fácil. También incluye el HTML, CSS, y JavaScript separados.
 
 Usuario: 
 Excelente, gracias.
